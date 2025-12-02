@@ -1,0 +1,1 @@
+import{w as e,j as n}from"./chunk-4WY6JWTD-BMfk9FMm.js";import o from"./root-DBrMH7vp.js";function r(){return[{title:"The world's knowledge, acting as one"},{name:"description",content:"Fusing specialized insights from genomics to finance in a secure, decentralized, and open ecosystem."}]}const a=e(function(){return n.jsx(o,{})});export{a as default,r as meta};
