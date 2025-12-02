@@ -4,6 +4,7 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
   plugins: [reactRouter(), tailwindcss()],
+  base: "/aab-website/",
   server: {
     allowedHosts: true
   }
