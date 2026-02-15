@@ -1,0 +1,1 @@
+import{w as e,j as t}from"./chunk-4WY6JWTD-BUTDCt8X.js";import n from"./root-BrxYnwJ0.js";function m(){return[{title:"Decentralized AI"},{name:"description",content:"We are building decentralized AI."}]}const a=e(function(){return t.jsx(n,{})});export{a as default,m as meta};
